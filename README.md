@@ -1,3 +1,6 @@
+<img src="logo-ecci.png" alt="logo ECCI" width="250"/>
+
+
 # SISTEMAS DIGITALES III
 
 Este repositorio ha sido creado para almacenar los trabajos y proyectos que se realizarán durante el semestre de la asignatura **Sistemas Digitales III**. En cada uno de los archivos se consignará el progreso y las soluciones a los talleres que se asignen a lo largo del curso.
