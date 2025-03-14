@@ -15,7 +15,7 @@ A continuación, se presenta una tabla donde se irá actualizando el enlace de c
 
 | **Taller** | **Enlace** |
 |------------|------------|
-| Taller 1: Introducción a Sistemas Digitales | [Enlace al taller 1](https://github.com/D4N1EL-R4M1R3Z/SISTEMAS-DIGITALES-III/tree/main/TALLER%201) |
+| Taller 1: Creación de Directorio Telefonico en python | [Enlace al taller 1](https://github.com/D4N1EL-R4M1R3Z/SISTEMAS-DIGITALES-III/tree/main/TALLER%201) |
 
 ## ¿Cómo usar este repositorio?
 
