@@ -20,5 +20,4 @@ A continuación, se presenta una tabla donde se irá actualizando el enlace de c
 ## ¿Cómo usar este repositorio?
 
 1. **Accede a los enlaces:** Haz clic en los enlaces de cada taller para ver el progreso de los trabajos y las soluciones propuestas.
-2. **Cargar nuevos talleres:** Cada vez que completes un taller o proyecto, sube los archivos correspondientes a la carpeta del taller y actualiza el enlace en esta tabla.
-3. **Colaboración:** Este repositorio está disponible para el seguimiento y revisión de profesores y compañeros, por lo que se recomienda actualizar los enlaces y archivos de manera oportuna.
+2. **Colaboración:** Este repositorio está disponible para el seguimiento y revisión de profesores y compañeros, por lo que se recomienda actualizar los enlaces y archivos de manera oportuna.
