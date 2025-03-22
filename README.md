@@ -19,7 +19,7 @@ A continuación, se presenta una tabla donde se irá actualizando el enlace de c
 | **Taller** | **Enlace** |
 |------------|------------|
 | Taller 1: Creación de Directorio Telefonico en python | [Enlace al taller 1](https://github.com/D4N1EL-R4M1R3Z/SISTEMAS-DIGITALES-III/tree/main/TALLER%201) |
-
+|Taller 2: Directorio con clases|[Enlace al taller 2]()|
 ## ¿Cómo usar este repositorio?
 
 1. **Accede a los enlaces:** Haz clic en los enlaces de cada taller para ver el progreso de los trabajos y las soluciones propuestas.
